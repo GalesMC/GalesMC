@@ -1,0 +1,4 @@
+Welcome {PLAYER} to {SERVER} server
+We we discourage stealing and griefing.
+
+This server uses AuthMeReloaded protection!

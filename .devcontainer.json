@@ -1,0 +1,4 @@
+{
+  "name": "Eaglercraft Dev Container",
+  "forwardPorts": [25565]
+}

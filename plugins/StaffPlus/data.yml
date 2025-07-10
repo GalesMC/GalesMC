@@ -1,0 +1,42 @@
+# All saved data for Staff+. Only modify this file if you know what you're doing!
+
+31c03a2d-e1f2-3058-addb-d251397fd23e:
+  name: Swizhs
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
+38a17d17-23b9-307f-96d0-5366f6a10005:
+  name: Server_Admin
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
+916b8c2b-33c9-36ed-9ebd-4fed039b1a1a:
+  name: YeerEagler56
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
+65bd523d-2650-3988-a1a9-a1f5b957d758:
+  name: YeeYee61
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
