@@ -40,3 +40,13 @@
   - XRAY;true
   - MENTION;true
   - NAME_CHANGE;true
+6a1e76df-10c3-3c98-8c26-d9350d4616d5:
+  name: Enrgey
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true

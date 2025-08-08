@@ -188,7 +188,7 @@ mob-range:
 # -- live-time's go by ticks (20 ticks a second)
 live-time:
   enabled: true
-  interval: 10
+  interval: 20
   mobtimer: true
   itemtimer: true
   arrowtimer: true
@@ -281,8 +281,8 @@ per-entity-chunk-entity-limiter:
 spawn-limiter:
   enabled: true
   interval: 15
-  mobs: 150
-  animals: 200
+  mobs: 300
+  animals: 250
 
 #Meters your TPS, if it goes to low, run the commands you wrote below!
 # -- 'interval' is how often tps-meter will check the TPS

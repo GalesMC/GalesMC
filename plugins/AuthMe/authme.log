@@ -1,13 +1,13 @@
-[07-03 17:04:55]: [INFO] Created column 'regdate' and set the current timestamp, 1751562295247, to all 0 rows
-[07-03 17:04:55]: [INFO] SQLite Setup finished
-[07-03 17:04:55]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-03 17:04:55]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-03 17:04:55]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-03 17:04:56]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
-[07-03 17:04:56]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
-[07-03 17:04:56]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
-[07-03 17:04:56]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
-[07-03 17:04:56]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07-27 22:44:55]: [INFO] Created column 'regdate' and set the current timestamp, 1753656295270, to all 0 rows
+[07-27 22:44:55]: [INFO] SQLite Setup finished
+[07-27 22:44:55]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-27 22:44:55]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-27 22:44:55]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[07-27 22:44:55]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-27 22:44:55]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-27 22:44:55]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-27 22:44:55]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07-27 22:44:55]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
 	at java.base/java.io.RandomAccessFile.open0(Native Method)
 	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
 	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
@@ -23,16 +23,16 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[07-03 17:06:34]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-03 17:07:10]: [INFO] SQLite Setup finished
-[07-03 17:07:10]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-03 17:07:11]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-03 17:07:11]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-03 17:07:11]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
-[07-03 17:07:11]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
-[07-03 17:07:11]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
-[07-03 17:07:11]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
-[07-03 17:07:11]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07-27 22:47:40]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[07-27 22:48:03]: [INFO] SQLite Setup finished
+[07-27 22:48:03]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-27 22:48:03]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-27 22:48:03]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[07-27 22:48:03]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-27 22:48:03]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-27 22:48:03]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-27 22:48:03]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07-27 22:48:03]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
 	at java.base/java.io.RandomAccessFile.open0(Native Method)
 	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
 	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
@@ -48,16 +48,19 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[07-03 17:07:54]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-03 17:08:11]: [INFO] SQLite Setup finished
-[07-03 17:08:11]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-03 17:08:11]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-03 17:08:12]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-03 17:08:12]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
-[07-03 17:08:12]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
-[07-03 17:08:12]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
-[07-03 17:08:12]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
-[07-03 17:08:12]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07-27 22:50:43]: [FINE] Swizhs registered 0:0:0:0:0:0:0:1%0
+[07-27 22:50:43]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
+[07-27 23:06:29]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
+[07-27 23:13:37]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[07-28 01:01:00]: [INFO] SQLite Setup finished
+[07-28 01:01:00]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-28 01:01:00]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-28 01:01:00]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[07-28 01:01:00]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-28 01:01:00]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-28 01:01:00]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-28 01:01:00]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07-28 01:01:00]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
 	at java.base/java.io.RandomAccessFile.open0(Native Method)
 	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
 	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
@@ -73,18 +76,18 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[07-03 17:11:04]: [FINE] Swizhs registered 0:0:0:0:0:0:0:1%0
-[07-03 17:11:04]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-03 17:17:09]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-03 17:18:39]: [INFO] SQLite Setup finished
-[07-03 17:18:39]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-03 17:18:39]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-03 17:18:40]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-03 17:18:40]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
-[07-03 17:18:40]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
-[07-03 17:18:40]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
-[07-03 17:18:40]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
-[07-03 17:18:40]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07-28 01:02:19]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
+[07-28 01:11:36]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
+[07-28 01:13:34]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[07-28 01:13:56]: [INFO] SQLite Setup finished
+[07-28 01:13:56]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-28 01:13:56]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-28 01:13:56]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[07-28 01:13:56]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-28 01:13:56]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-28 01:13:56]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-28 01:13:56]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07-28 01:13:56]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
 	at java.base/java.io.RandomAccessFile.open0(Native Method)
 	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
 	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
@@ -100,15 +103,16 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[07-04 15:30:41]: [INFO] SQLite Setup finished
-[07-04 15:30:41]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 15:30:41]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 15:30:41]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 15:30:41]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
-[07-04 15:30:41]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
-[07-04 15:30:41]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
-[07-04 15:30:41]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
-[07-04 15:30:41]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07-28 01:27:05]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
+[07-28 16:19:46]: [INFO] SQLite Setup finished
+[07-28 16:19:46]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-28 16:19:47]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-28 16:19:47]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[07-28 16:19:47]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-28 16:19:47]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-28 16:19:47]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-28 16:19:47]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07-28 16:19:47]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
 	at java.base/java.io.RandomAccessFile.open0(Native Method)
 	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
 	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
@@ -124,16 +128,17 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[07-04 15:31:23]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 15:31:36]: [INFO] SQLite Setup finished
-[07-04 15:31:37]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 15:31:37]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 15:31:37]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 15:31:37]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
-[07-04 15:31:37]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
-[07-04 15:31:37]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
-[07-04 15:31:37]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
-[07-04 15:31:37]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07-28 16:23:10]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
+[07-28 16:23:32]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[07-28 16:29:48]: [INFO] SQLite Setup finished
+[07-28 16:29:48]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-28 16:29:48]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-28 16:29:48]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[07-28 16:29:48]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-28 16:29:48]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-28 16:29:48]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-28 16:29:48]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07-28 16:29:48]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
 	at java.base/java.io.RandomAccessFile.open0(Native Method)
 	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
 	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
@@ -149,481 +154,105 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[07-04 15:32:48]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 15:33:09]: [INFO] SQLite Setup finished
-[07-04 15:33:09]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 15:33:09]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 15:33:09]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 15:36:47]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 15:37:03]: [INFO] SQLite Setup finished
-[07-04 15:37:03]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 15:37:04]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 15:37:04]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 15:38:24]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-04 15:39:21]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-04 15:41:31]: [FINE] Server_Admin registered 0:0:0:0:0:0:0:1%0
-[07-04 15:41:31]: [FINE] The user Server_Admin has 2 accounts:
-[07-04 15:41:31]: [FINE] §7§aSwizhs§7, §aServer_Admin§7.
-[07-04 15:41:31]: [FINE] Server_Admin logged in 0:0:0:0:0:0:0:1%0
-[07-04 15:43:33]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 15:43:58]: [INFO] SQLite Setup finished
-[07-04 15:43:58]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 15:43:58]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 15:43:58]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 16:03:32]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 16:03:56]: [INFO] SQLite Setup finished
-[07-04 16:03:56]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 16:03:56]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 16:03:56]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 16:04:49]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 16:05:01]: [INFO] SQLite Setup finished
-[07-04 16:05:01]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 16:05:01]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 16:05:02]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 16:05:25]: [FINE] The user Swizhs has 2 accounts:
-[07-04 16:05:25]: [FINE] §7§aSwizhs§7, server_admin.
-[07-04 16:05:25]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-04 16:06:37]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 16:06:53]: [INFO] SQLite Setup finished
-[07-04 16:06:53]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 16:06:53]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 16:06:53]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 16:07:13]: [FINE] The user Swizhs has 2 accounts:
-[07-04 16:07:13]: [FINE] §7§aSwizhs§7, server_admin.
-[07-04 16:07:13]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-04 16:11:55]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 16:12:49]: [INFO] SQLite Setup finished
-[07-04 16:12:49]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 16:12:49]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 16:12:49]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 16:16:17]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 16:16:34]: [INFO] SQLite Setup finished
-[07-04 16:16:34]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 16:16:34]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 16:16:34]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 16:18:46]: [FINE] The user Swizhs has 2 accounts:
-[07-04 16:18:46]: [FINE] §7§aSwizhs§7, server_admin.
-[07-04 16:18:46]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-04 16:20:50]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 16:21:04]: [INFO] SQLite Setup finished
-[07-04 16:21:04]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 16:21:04]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 16:21:05]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 16:21:24]: [FINE] The user Swizhs has 2 accounts:
-[07-04 16:21:24]: [FINE] §7§aSwizhs§7, server_admin.
-[07-04 16:21:24]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-04 16:30:53]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 16:34:21]: [INFO] SQLite Setup finished
-[07-04 16:34:21]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 16:34:21]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 16:34:21]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 16:42:31]: [INFO] SQLite Setup finished
-[07-04 16:42:31]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 16:42:32]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 16:42:32]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 16:43:07]: [FINE] The user Swizhs has 2 accounts:
-[07-04 16:43:07]: [FINE] §7§aSwizhs§7, server_admin.
-[07-04 16:43:07]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-04 16:44:21]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 16:46:04]: [INFO] SQLite Setup finished
-[07-04 16:46:04]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 16:46:04]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 16:46:04]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 16:47:17]: [FINE] The user Swizhs has 2 accounts:
-[07-04 16:47:17]: [FINE] §7§aSwizhs§7, server_admin.
-[07-04 16:47:17]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-04 16:48:16]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 16:49:58]: [INFO] SQLite Setup finished
-[07-04 16:49:58]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 16:49:58]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 16:49:58]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 16:50:38]: [FINE] The user Swizhs has 2 accounts:
-[07-04 16:50:38]: [FINE] §7§aSwizhs§7, server_admin.
-[07-04 16:50:38]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-04 16:55:52]: [FINE] The user Swizhs has 2 accounts:
-[07-04 16:55:52]: [FINE] §7§aSwizhs§7, server_admin.
-[07-04 16:55:52]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-04 16:59:19]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 16:59:59]: [INFO] SQLite Setup finished
-[07-04 16:59:59]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 16:59:59]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 16:59:59]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 17:03:34]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 19:02:16]: [INFO] SQLite Setup finished
-[07-04 19:02:16]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 19:02:16]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 19:02:16]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 19:06:15]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 19:06:23]: [INFO] SQLite Setup finished
-[07-04 19:06:23]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 19:06:23]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 19:06:23]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 19:08:58]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 19:14:12]: [INFO] SQLite Setup finished
-[07-04 19:14:12]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 19:14:13]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 19:14:13]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 19:15:11]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 19:15:28]: [INFO] SQLite Setup finished
-[07-04 19:15:28]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 19:15:29]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 19:15:29]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 19:16:51]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 19:17:08]: [INFO] SQLite Setup finished
-[07-04 19:17:08]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 19:17:08]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 19:17:08]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 19:18:23]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 19:18:41]: [INFO] SQLite Setup finished
-[07-04 19:18:41]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 19:18:41]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 19:18:41]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 19:20:15]: [FINE] The user Swizhs has 2 accounts:
-[07-04 19:20:15]: [FINE] §7§aSwizhs§7, server_admin.
-[07-04 19:20:15]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-04 19:29:53]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 19:34:25]: [INFO] SQLite Setup finished
-[07-04 19:34:25]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 19:34:25]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 19:34:25]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 19:34:46]: [FINE] The user Swizhs has 2 accounts:
-[07-04 19:34:46]: [FINE] §7§aSwizhs§7, server_admin.
-[07-04 19:34:46]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-04 19:48:50]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 19:49:07]: [INFO] SQLite Setup finished
-[07-04 19:49:07]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 19:49:07]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 19:49:07]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 19:51:10]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 23:13:41]: [INFO] SQLite Setup finished
-[07-04 23:13:41]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 23:13:41]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 23:13:41]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 23:15:20]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 23:23:13]: [INFO] SQLite Setup finished
-[07-04 23:23:13]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 23:23:13]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 23:23:13]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 23:28:09]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 23:28:30]: [INFO] SQLite Setup finished
-[07-04 23:28:30]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 23:28:30]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 23:28:30]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 23:32:20]: [FINE] The user Swizhs has 2 accounts:
-[07-04 23:32:20]: [FINE] §7§aSwizhs§7, server_admin.
-[07-04 23:32:20]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-04 23:36:09]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 23:38:01]: [INFO] SQLite Setup finished
-[07-04 23:38:01]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 23:38:01]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 23:38:01]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 23:38:58]: [FINE] The user Swizhs has 2 accounts:
-[07-04 23:38:58]: [FINE] §7§aSwizhs§7, server_admin.
-[07-04 23:38:58]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-04 23:41:45]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 23:42:04]: [INFO] SQLite Setup finished
-[07-04 23:42:05]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 23:42:05]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 23:42:05]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 23:50:52]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-04 23:55:44]: [INFO] SQLite Setup finished
-[07-04 23:55:44]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-04 23:55:44]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-04 23:55:44]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-04 23:57:00]: [FINE] The user Swizhs has 2 accounts:
-[07-04 23:57:00]: [FINE] §7§aSwizhs§7, server_admin.
-[07-04 23:57:00]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-04 23:59:47]: [FINE] The user Server_Admin has 2 accounts:
-[07-04 23:59:47]: [FINE] §7§aSwizhs§7, §aServer_Admin§7.
-[07-04 23:59:47]: [FINE] Server_Admin logged in 0:0:0:0:0:0:0:1%0
-[07-05 00:01:01]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 00:01:21]: [INFO] SQLite Setup finished
-[07-05 00:01:21]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 00:01:21]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 00:01:21]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 00:02:16]: [FINE] The user Server_Admin has 2 accounts:
-[07-05 00:02:16]: [FINE] §7swizhs, §aServer_Admin§7.
-[07-05 00:02:16]: [FINE] Server_Admin logged in 0:0:0:0:0:0:0:1%0
-[07-05 00:04:09]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 00:04:29]: [INFO] SQLite Setup finished
-[07-05 00:04:29]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 00:04:29]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 00:04:30]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 00:05:10]: [FINE] The user Server_Admin has 2 accounts:
-[07-05 00:05:10]: [FINE] §7swizhs, §aServer_Admin§7.
-[07-05 00:05:10]: [FINE] Server_Admin logged in 0:0:0:0:0:0:0:1%0
-[07-05 00:05:15]: [INFO] Server_Admin unregistered himself
-[07-05 00:05:30]: [FINE] Server_Admin registered 0:0:0:0:0:0:0:1%0
-[07-05 00:05:30]: [FINE] The user Server_Admin has 2 accounts:
-[07-05 00:05:30]: [FINE] §7swizhs, §aServer_Admin§7.
-[07-05 00:05:30]: [FINE] Server_Admin logged in 0:0:0:0:0:0:0:1%0
-[07-05 00:07:38]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 00:07:59]: [INFO] SQLite Setup finished
-[07-05 00:07:59]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 00:07:59]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 00:07:59]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 01:25:33]: [INFO] SQLite Setup finished
-[07-05 01:25:33]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 01:25:34]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 01:25:34]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 01:27:27]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 01:27:42]: [INFO] SQLite Setup finished
-[07-05 01:27:42]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 01:27:42]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 01:27:42]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 01:28:43]: [FINE] The user Server_Admin has 2 accounts:
-[07-05 01:28:43]: [FINE] §7swizhs, §aServer_Admin§7.
-[07-05 01:28:43]: [FINE] Server_Admin logged in 0:0:0:0:0:0:0:1%0
-[07-05 01:31:25]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 01:33:49]: [INFO] SQLite Setup finished
-[07-05 01:33:49]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 01:33:49]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 01:33:50]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 01:34:39]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 01:36:02]: [INFO] SQLite Setup finished
-[07-05 01:36:02]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 01:36:02]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 01:36:02]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 01:36:55]: [FINE] The user Server_Admin has 2 accounts:
-[07-05 01:36:55]: [FINE] §7swizhs, §aServer_Admin§7.
-[07-05 01:36:55]: [FINE] Server_Admin logged in 0:0:0:0:0:0:0:1%0
-[07-05 01:42:03]: [FINE] The user Server_Admin has 2 accounts:
-[07-05 01:42:03]: [FINE] §7swizhs, §aServer_Admin§7.
-[07-05 01:42:03]: [FINE] Server_Admin logged in 0:0:0:0:0:0:0:1%0
-[07-05 01:53:15]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 01:53:33]: [INFO] SQLite Setup finished
-[07-05 01:53:33]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 01:53:33]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 01:53:33]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 01:57:33]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 01:59:17]: [INFO] SQLite Setup finished
-[07-05 01:59:17]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 01:59:17]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 01:59:17]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 02:08:53]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 02:09:13]: [INFO] SQLite Setup finished
-[07-05 02:09:13]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 02:09:13]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 02:09:13]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 02:11:41]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 02:11:54]: [INFO] SQLite Setup finished
-[07-05 02:11:54]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 02:11:54]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 02:11:54]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 02:14:32]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 02:14:54]: [INFO] SQLite Setup finished
-[07-05 02:14:54]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 02:14:54]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 02:14:54]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 02:15:40]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 02:16:08]: [INFO] SQLite Setup finished
-[07-05 02:16:08]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 02:16:08]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 02:16:08]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 02:17:04]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 02:24:01]: [INFO] SQLite Setup finished
-[07-05 02:24:01]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 02:24:01]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 02:24:02]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 02:24:12]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 02:24:35]: [INFO] SQLite Setup finished
-[07-05 02:24:35]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 02:24:35]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 02:24:35]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 02:26:40]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 02:27:01]: [INFO] SQLite Setup finished
-[07-05 02:27:01]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 02:27:01]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 02:27:01]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 02:28:17]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 02:28:38]: [INFO] SQLite Setup finished
-[07-05 02:28:38]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 02:28:38]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 02:28:38]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 02:32:24]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 02:32:44]: [INFO] SQLite Setup finished
-[07-05 02:32:45]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 02:32:45]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 02:32:45]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 02:38:38]: [FINE] The user Server_Admin has 2 accounts:
-[07-05 02:38:38]: [FINE] §7swizhs, §aServer_Admin§7.
-[07-05 02:38:38]: [FINE] Server_Admin logged in 0:0:0:0:0:0:0:1%0
-[07-05 02:44:17]: [FINE] The user Swizhs has 2 accounts:
-[07-05 02:44:17]: [FINE] §7§aSwizhs§7, server_admin.
-[07-05 02:44:17]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-05 02:45:48]: [FINE] The user Swizhs has 2 accounts:
-[07-05 02:45:48]: [FINE] §7§aSwizhs§7, server_admin.
-[07-05 02:45:48]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-05 02:48:27]: [FINE] The user Swizhs has 2 accounts:
-[07-05 02:48:27]: [FINE] §7§aSwizhs§7, server_admin.
-[07-05 02:48:27]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-05 02:50:04]: [FINE] The user Swizhs has 2 accounts:
-[07-05 02:50:04]: [FINE] §7§aSwizhs§7, server_admin.
-[07-05 02:50:04]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-05 02:52:40]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 02:53:00]: [INFO] SQLite Setup finished
-[07-05 02:53:00]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 02:53:00]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 02:53:00]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 02:53:11]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 02:53:36]: [INFO] SQLite Setup finished
-[07-05 02:53:36]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 02:53:36]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 02:53:36]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 02:57:17]: [FINE] The user Swizhs has 2 accounts:
-[07-05 02:57:17]: [FINE] §7§aSwizhs§7, server_admin.
-[07-05 02:57:17]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-05 02:59:30]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 03:02:05]: [INFO] SQLite Setup finished
-[07-05 03:02:05]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 03:02:05]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 03:02:05]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 03:02:26]: [FINE] The user Swizhs has 2 accounts:
-[07-05 03:02:26]: [FINE] §7§aSwizhs§7, server_admin.
-[07-05 03:02:26]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-05 03:09:19]: [FINE] The user Swizhs has 2 accounts:
-[07-05 03:09:19]: [FINE] §7§aSwizhs§7, server_admin.
-[07-05 03:09:19]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-05 03:12:05]: [FINE] The user Swizhs has 2 accounts:
-[07-05 03:12:05]: [FINE] §7§aSwizhs§7, server_admin.
-[07-05 03:12:05]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-05 03:17:20]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 03:18:01]: [INFO] SQLite Setup finished
-[07-05 03:18:01]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 03:18:01]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 03:18:01]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 03:25:15]: [FINE] The user Swizhs has 2 accounts:
-[07-05 03:25:15]: [FINE] §7§aSwizhs§7, server_admin.
-[07-05 03:25:15]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-05 03:28:23]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 03:28:38]: [INFO] SQLite Setup finished
-[07-05 03:28:38]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 03:28:38]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 03:28:38]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 03:30:55]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 03:31:16]: [INFO] SQLite Setup finished
-[07-05 03:31:16]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 03:31:16]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 03:31:16]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 03:31:31]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 03:31:48]: [INFO] SQLite Setup finished
-[07-05 03:31:48]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 03:31:48]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 03:31:48]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 03:32:00]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 03:34:14]: [INFO] SQLite Setup finished
-[07-05 03:34:14]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 03:34:14]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 03:34:14]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 03:34:35]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 03:34:58]: [INFO] SQLite Setup finished
-[07-05 03:34:58]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 03:34:58]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 03:34:58]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 03:37:18]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 03:37:37]: [INFO] SQLite Setup finished
-[07-05 03:37:37]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 03:37:37]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 03:37:37]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 03:38:45]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 03:39:04]: [INFO] SQLite Setup finished
-[07-05 03:39:04]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 03:39:04]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 03:39:04]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 03:41:39]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 03:41:51]: [INFO] SQLite Setup finished
-[07-05 03:41:51]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 03:41:51]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 03:41:51]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 03:42:37]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 03:42:58]: [INFO] SQLite Setup finished
-[07-05 03:42:58]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 03:42:59]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 03:42:59]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 03:43:26]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 03:43:42]: [INFO] SQLite Setup finished
-[07-05 03:43:42]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 03:43:42]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 03:43:42]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 03:44:44]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 03:45:03]: [INFO] SQLite Setup finished
-[07-05 03:45:03]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 03:45:04]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 03:45:04]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 03:46:38]: [FINE] The user Server_Admin has 2 accounts:
-[07-05 03:46:38]: [FINE] §7swizhs, §aServer_Admin§7.
-[07-05 03:46:38]: [FINE] Server_Admin logged in 0:0:0:0:0:0:0:1%0
-[07-05 03:53:03]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 03:53:24]: [INFO] SQLite Setup finished
-[07-05 03:53:24]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 03:53:24]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 03:53:24]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 03:56:38]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 03:57:55]: [INFO] SQLite Setup finished
-[07-05 03:57:55]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 03:57:55]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 03:57:55]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 14:24:57]: [INFO] SQLite Setup finished
-[07-05 14:24:57]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 14:24:57]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 14:24:57]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 14:45:52]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 14:46:08]: [INFO] SQLite Setup finished
-[07-05 14:46:08]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 14:46:08]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 14:46:08]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 14:48:25]: [FINE] The user Swizhs has 2 accounts:
-[07-05 14:48:25]: [FINE] §7§aSwizhs§7, server_admin.
-[07-05 14:48:25]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-05 15:03:44]: [FINE] The user Swizhs has 2 accounts:
-[07-05 15:03:44]: [FINE] §7§aSwizhs§7, server_admin.
-[07-05 15:03:44]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-05 15:55:36]: [INFO] SQLite Setup finished
-[07-05 15:55:36]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 15:55:37]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 15:55:37]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 16:51:58]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 16:54:39]: [INFO] SQLite Setup finished
-[07-05 16:54:39]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 16:54:39]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 16:54:39]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 16:57:07]: [FINE] The user Swizhs has 2 accounts:
-[07-05 16:57:07]: [FINE] §7§aSwizhs§7, server_admin.
-[07-05 16:57:07]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-05 17:12:53]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 20:47:46]: [INFO] SQLite Setup finished
-[07-05 20:47:46]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 20:47:46]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 20:47:46]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 20:50:27]: [FINE] The user Swizhs has 2 accounts:
-[07-05 20:50:27]: [FINE] §7§aSwizhs§7, server_admin.
-[07-05 20:50:27]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-05 20:52:30]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 20:52:51]: [INFO] SQLite Setup finished
-[07-05 20:52:51]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 20:52:51]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 20:52:52]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 20:53:40]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 20:53:56]: [INFO] SQLite Setup finished
-[07-05 20:53:56]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 20:53:56]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 20:53:56]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 20:55:51]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-05 20:56:14]: [INFO] SQLite Setup finished
-[07-05 20:56:14]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-05 20:56:14]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-05 20:56:15]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-05 20:56:15]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-10 21:10:05]: [INFO] SQLite Setup finished
-[07-10 21:10:05]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-10 21:10:05]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-10 21:10:05]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-10 21:12:02]: [FINE] The user Swizhs has 2 accounts:
-[07-10 21:12:02]: [FINE] §7§aSwizhs§7, server_admin.
-[07-10 21:12:02]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
-[07-10 21:25:57]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
-[07-10 21:29:12]: [INFO] SQLite Setup finished
-[07-10 21:29:12]: [INFO] No supported permissions system found! Permissions are disabled!
-[07-10 21:29:13]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[07-10 21:29:13]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
-[07-10 21:34:12]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[07-28 16:31:31]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
+[07-28 16:37:04]: [FINE] Swizhs logged in 0:0:0:0:0:0:0:1%0
+[07-28 16:39:34]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[07-28 16:57:32]: [INFO] SQLite Setup finished
+[07-28 16:57:32]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-28 16:57:32]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-28 16:57:32]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[07-28 16:57:33]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-28 16:57:33]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-28 16:57:33]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-28 16:57:33]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07-28 16:57:33]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[07-28 16:57:58]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[07-28 16:58:08]: [INFO] SQLite Setup finished
+[07-28 16:58:08]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-28 16:58:08]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-28 16:58:08]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[07-28 16:58:08]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-28 16:58:08]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-28 16:58:08]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-28 16:58:08]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07-28 16:58:08]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[07-28 17:06:23]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[07-28 17:06:46]: [INFO] SQLite Setup finished
+[07-28 17:06:46]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-28 17:06:46]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-28 17:06:46]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[07-28 17:06:47]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-28 17:06:47]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-28 17:06:47]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-28 17:06:47]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[07-28 17:06:47]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[07-28 17:07:36]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-07 03:38:51]: [INFO] SQLite Setup finished
+[08-07 03:38:51]: [INFO] No supported permissions system found! Permissions are disabled!
+[08-07 03:38:51]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[08-07 03:38:51]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-07 03:38:55]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[08-07 03:38:55]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[08-07 03:38:55]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[08-07 03:38:55]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[08-07 03:38:55]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+

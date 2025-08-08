@@ -1,4 +1,4 @@
-Welcome {PLAYER} to {SERVER} server
-We we discourage stealing and griefing.
+Welcome {PLAYER} on {SERVER} server
+We §cHIGHLY §fDiscourage griefing.
 
 This server uses AuthMeReloaded protection!

@@ -21,7 +21,7 @@ DataSource:
     # Username to connect to the MySQL database
     mySQLUsername: authme
     # Password to connect to the MySQL database
-    mySQLPassword: '195146'
+    mySQLPassword: '12345'
     # Database Name, use with converters or as SQLITE database name
     mySQLDatabase: authme
     # Table of the database
@@ -121,7 +121,7 @@ settings:
     # typical communication with the database to happen synchronously, set this to false
     useAsyncTasks: true
     # The name of the server, used in some placeholders.
-    serverName: The LHS EaglercraftX
+    serverName: Your Minecraft Server
     restrictions:
         # Can not authenticated players chat?
         # Keep in mind that this feature also blocks all commands not
@@ -142,7 +142,7 @@ settings:
         - /totp
         # Max number of allowed registrations per IP
         # The value 0 means an unlimited number of registrations!
-        maxRegPerIp: 0
+        maxRegPerIp: 1
         # Minimum allowed username length
         minNicknameLength: 3
         # Maximum allowed username length
@@ -395,7 +395,7 @@ Protection:
     enableProtectionRegistered: true
     geoIpDatabase:
         # Enable GeoIp database
-        enabled: false
+        enabled: true
         # The MaxMind clientId used to download the GeoIp database,
         # get one at https://www.maxmind.com/en/accounts/current/license-key
         # The EssentialsX project has a very useful tutorial on how to generate
