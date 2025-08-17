@@ -16,7 +16,7 @@ tls_config:
 redirect_legacy_clients_to: ''
 server_icon: 'server-icon.png'
 server_motd:
-- '&6An LHS EaglercraftX server'
+- '&6A Gales SMP'
 allow_motd: true
 allow_query: true
 show_motd_player_list: true
