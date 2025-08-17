@@ -50,3 +50,13 @@
   - XRAY;true
   - MENTION;true
   - NAME_CHANGE;true
+e2c42d50-1680-3cd2-8fe9-05f49ce3563c:
+  name: GalesMC_Staff
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true

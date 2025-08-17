@@ -14,12 +14,12 @@ config-version: 13
 settings:
   load-permissions-yml-before-plugins: true
   bungee-online-mode: true
+  save-player-data: true
   sleep-between-chunk-saves: false
   region-file-cache-size: 256
   save-empty-scoreboard-teams: false
   incoming-packet-spam-threshold: 300
   remove-invalid-statistics: false
-  save-player-data: true
   use-alternative-luck-formula: false
   min-chunk-load-threads: 4
   suggest-player-names-when-null-tab-completions: true
@@ -66,8 +66,6 @@ world-settings:
       disable-extreme-hills-emeralds: false
       disable-extreme-hills-monster-eggs: false
       disable-mesa-additional-gold: false
-    prevent-moving-into-unloaded-chunks: true
-    use-vanilla-world-scoreboard-name-coloring: false
     portal-search-radius: 128
     queue-light-updates: false
     optimize-explosions: true
@@ -122,6 +120,8 @@ world-settings:
       push-based: false
     duplicate-uuid-resolver: saferegen
     duplicate-uuid-saferegen-delete-range: 32
+    prevent-moving-into-unloaded-chunks: true
+    use-vanilla-world-scoreboard-name-coloring: false
     keep-spawn-loaded-range: 6
     auto-save-interval: -1
     nether-ceiling-void-damage: false

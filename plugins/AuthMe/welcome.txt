@@ -1,4 +1,0 @@
-Welcome {PLAYER} on {SERVER} server
-We §cHIGHLY §fDiscourage griefing.
-
-This server uses AuthMeReloaded protection!
