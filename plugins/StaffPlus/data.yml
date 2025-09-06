@@ -60,3 +60,13 @@ e2c42d50-1680-3cd2-8fe9-05f49ce3563c:
   - XRAY;true
   - MENTION;true
   - NAME_CHANGE;true
+708f83cd-b150-33d6-b7af-ab56190a239c:
+  name: Technoblade
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true

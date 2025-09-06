@@ -63,7 +63,6 @@ stats:
 world-settings:
   default:
     verbose: true
-    mob-spawn-range: 4
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -87,6 +86,7 @@ world-settings:
       monsters: 48
       misc: 32
       other: 64
+    mob-spawn-range: 4
     ticks-per:
       hopper-transfer: 8
       hopper-check: 1
@@ -121,8 +121,8 @@ world-settings:
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
     hanging-tick-frequency: 100
-    zombie-aggressive-towards-villager: true
     nerf-spawner-mobs: false
+    zombie-aggressive-towards-villager: true
     max-entity-collisions: 2
     item: 2.5
     exp: 3.0
